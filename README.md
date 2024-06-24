@@ -1,4 +1,4 @@
-# Next.js Project
+# Desafio Backend NIUCO
 
 Este é um projeto desenvolvido como desafio de backend utilizando Next.js. Ele inclui todas as orientações necessárias para o deploy da aplicação tanto em ambiente local quanto na Vercel.
 
