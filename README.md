@@ -104,3 +104,5 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ## Desafio
 
     Para acessar o resultado esperado do desafio faça uma requisição GET para o endpoint /api/user.
+
+    http://localhost:3001/api/user
