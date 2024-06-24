@@ -99,3 +99,8 @@ A Vercel é a maneira mais fácil de implantar aplicativos Next.js com suporte n
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
+
+
+## Desafio
+
+    Para acessar o resultado esperado do desafio faça uma requisição GET para o endpoint /api/user.
